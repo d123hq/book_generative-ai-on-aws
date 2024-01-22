@@ -32,3 +32,5 @@ output/
 tmp/
 .ipynb_checkpoints/
 __pycache__/
+.aws
+~/.aws
